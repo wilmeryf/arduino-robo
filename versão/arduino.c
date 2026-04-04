@@ -1,7 +1,7 @@
 /**
  Projeto Arduino - Robô com um sonar HC-SR04
  Nome: MazeRunnerBot
-  @authores Reginaldo Filho , Anderson Wilmer e Ryan Ferreira
+ @authores Reginaldo Filho , Anderson Wilmer e Ryan Ferreira
 */
 
 // Uso da biblioteca Distance-Sensor by Tin Dao (HC-SR04)
@@ -22,7 +22,6 @@ void setup() {
   sensor.begin();
   //Iniciar a comunicação serial (teste e calibração do sensor)
   Serial.begin(9600);
-
 }
 
 void loop() {
@@ -31,17 +30,22 @@ void loop() {
   if (distancia == sensor.NREADY) {
     return;
   }
+ 
  //Lógica do labirinto simples
-  Serial.println(distancia);
-  if(distancia < 10 && distancia != -2) {
-  parar();
-  delay(500);  
-  girarEsquerda();
-  delay(350);
-  } else {
+  Serial.print("Distância: ");
+  Serial.print(distancia);
+  Serial.println("cm");
+ 
+  if(distancia == -2) {
+     parar();
+  } else if (distancia > 12) {
     moverFrente();
+  } else {
+    parar();
+    delay(500);
+    girarEsquerda();
+    delay(350);
   }
-
 }
 
 //Funções para movimentação do robô
