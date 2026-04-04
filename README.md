@@ -58,7 +58,7 @@ Passo a passo para acessar:
 3. Crie uma conta gratuita ou entre com sua conta existente.  
 4. No painel, escolha "Circuits" para criar e simular o esquema elétrico do robô.
 
-### Ferramentas Fisicas
+### Ferramentas Físicas
 
 - Ferro de solda.
 - Estanho para solda.
