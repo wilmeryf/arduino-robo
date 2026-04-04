@@ -1,4 +1,5 @@
-![Github License](https://img.shields.io/github/license/reginaldotfilho/mazeRunner-arduino?style=for-the-badge)
+![Github License](https://img.shields.io/github/license/reginaldotfilho/mazeRunner-arduino?style=for-the-badge) -
+![Arduino](https://img.shields.io/badge/Arduino-Robô_Autônomo-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 # Projeto Robô com Arduino
 
