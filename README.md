@@ -50,6 +50,6 @@ Para desenvolver este projeto, utilizamos ferramentas simples e acessíveis para
 
 ---
 
-## Wiki
+## Conteúdo
 
-Para seguir o projeto passo a passo, incluindo lista de materiais, montagem do circuito e programação do robô, visite a [wiki do repositório](https://github.com/reginaldotfilho/MazeRunnerBot-arduino/wiki).
+Para informações mais detalhadas sobre o projeto siga a [wiki do repositório](https://github.com/wilmeryf/arduino-robo/wiki).
