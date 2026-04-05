@@ -35,28 +35,10 @@ O objetivo deste projeto é permitir que qualquer pessoa, especialmente iniciant
 
 Para desenvolver este projeto, utilizamos ferramentas simples e acessíveis para iniciantes:
 
-### Ferramentar Digitais
+### Ferramentas Digitais
 
- **1. IDE Arduino**
- 
-Link: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
-
-Passo a passo para baixar e instalar:   
-1. Acesse o link acima.  
-2. Clique na versão correspondente ao seu sistema operacional (Windows, Mac ou Linux).  
-3. Baixe o instalador.  
-4. Execute o instalador e siga as instruções para completar a instalação.  
-5. Abra a IDE e verifique se funciona corretamente.
-
-**2. Tinkercad**
-
-Link: [https://www.tinkercad.com/](https://www.tinkercad.com/)
-
-Passo a passo para acessar:  
-1. Acesse o link acima.  
-2. Clique em "Join Now" ou "Sign In".  
-3. Crie uma conta gratuita ou entre com sua conta existente.  
-4. No painel, escolha "Circuits" para criar e simular o esquema elétrico do robô.
+- Arduino IDE
+- TinkerCad
 
 ### Ferramentas Físicas
 
