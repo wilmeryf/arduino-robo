@@ -38,7 +38,7 @@ Para desenvolver este projeto, utilizamos ferramentas simples e acessíveis para
 ### Ferramentas Digitais
 
 - Arduino IDE
-- TinkerCad
+- Tinkercad
 
 ### Ferramentas Físicas
 
