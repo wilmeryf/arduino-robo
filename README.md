@@ -5,7 +5,7 @@
 
 **Unidade Curricular 1 - SENAC**
 
-> Realizado no ano de 2025
+> **Data:** 25 de setembro a 07 de outubro de 2025
 
 **Nome do Robô:** Maze Runner Bot  
 **Integrantes:** Anderson Wilmer, Reginaldo Filho e Ryan Ferreira  
